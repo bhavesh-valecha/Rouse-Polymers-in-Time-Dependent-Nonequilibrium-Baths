@@ -1,6 +1,6 @@
 # Rouse Polymers in Time Dependent Nonequilibrium Baths
 
-This repository contains code and data for [Rouse Polymers in Time Dependent Nonequilibrium Baths](%add_arXiv_link_here). 
+This repository contains code and data for [Riding the Wave: Polymers in Time Dependent Nonequilibrium Baths](%add_arXiv_link_here). 
 
 Authors: [Bhavesh Valecha](https://www.uni-augsburg.de/de/fakultaet/mntf/physik/groups/theo2/team/phds/bhavesh-valecha/), [Jens-Uwe Sommer](https://www.ipfdd.de/de/forschung/bereich-theorie-der-polymere/people/prof-dr-jens-uwe-sommer/) and [Abhinav Sharma](https://www.uni-augsburg.de/de/fakultaet/mntf/physik/groups/theo2/team/professors/prof-dr-abhinav-sharma/)
 
@@ -27,9 +27,11 @@ Directed transport is a characteristic feature of numerous biological systems in
 
 9. Force_clique.h - header file for calculating the forces between monomers for a clique polymer.
 
-10. plot_figures.ipynb - notebook used to plot Figs. 2-5 in the main text of the article.
+10. Plots/ - folder containing pdf versions of the plots in Figs. 2-5 in the main text of the article.
 
-11. Data/ - folder containing all the data files used to create Figs. 2-5 in the main text of the article.
+11. Plots/plot_figures.ipynb - notebook used to plot Figs. 2-5 in the main text of the article.
+
+12. Data_plots/ - folder containing all the data files used to create Figs. 2-5 in the main text of the article.
 
 
 ## Citation
