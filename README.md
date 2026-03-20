@@ -1,6 +1,6 @@
 # Rouse Polymers in Time Dependent Nonequilibrium Baths
 
-This repository contains code and data for [Riding the Wave: Polymers in Time Dependent Nonequilibrium Baths](%add_arXiv_link_here). 
+This repository contains code and data for [Riding the Wave: Polymers in Time Dependent Nonequilibrium Baths](https://arxiv.org/abs/2603.02777). 
 
 Authors: [Bhavesh Valecha](https://www.uni-augsburg.de/de/fakultaet/mntf/physik/groups/theo2/team/phds/bhavesh-valecha/), [Jens-Uwe Sommer](https://www.ipfdd.de/de/forschung/bereich-theorie-der-polymere/people/prof-dr-jens-uwe-sommer/) and [Abhinav Sharma](https://www.uni-augsburg.de/de/fakultaet/mntf/physik/groups/theo2/team/professors/prof-dr-abhinav-sharma/)
 
@@ -36,8 +36,17 @@ Directed transport is a characteristic feature of numerous biological systems in
 
 ## Citation
 
-If you found this code or paper helpful, please cite us as:
-%ADDCITATION
+If you found this code or paper helpful, please cite us as: 
+B. Valecha, J.-U. Sommer and A. Sharma, ''Riding the Wave: Polymers in Time-dependent Nonequilibrium Baths,'' [arXiv:2603.02777 (2026)](https://arxiv.org/abs/2603.02777)
+
+<code>
+@article{valecha2026riding,
+  title={Riding the Wave: Polymers in Time-dependent Nonequilibrium Baths},
+  author={Valecha, Bhavesh and Sommer, Jens-Uwe and Sharma, Abhinav},
+  journal={arXiv preprint arXiv:2603.02777},
+  year={2026}
+}
+<code>
 
 ## Contact
 
